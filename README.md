@@ -22,5 +22,5 @@ This application allows users to upload PDF documents, ask questions, and retrie
    cd app
    
    docker-compose up --build
-```
-   Note: Part 1 colab file can be found inside app folder
+   ```
+Note: Part 1 colab file can be found inside app folder
