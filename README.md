@@ -18,4 +18,5 @@ This application allows users to upload PDF documents, ask questions, and retrie
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/pdf-qa-app.git
-   cd pdf-qa-app
+   cd app
+   docker-compose up --build
