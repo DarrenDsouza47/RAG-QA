@@ -1,0 +1,5 @@
+
+/app/.env
+/app/embeddings
+/app/__pycache__
+/.vs
